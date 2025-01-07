@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://phowax.github.io//phowax//sitemap.xml
+User-agent: * Disallow: Sitemap: https://dhanendran.net//sitemap.xml
