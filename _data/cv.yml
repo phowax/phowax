@@ -1,7 +1,7 @@
 - title: Introduction
   type: map
   contents:
-    - name: Full Name
+    - name: Name
       value: Anthony Dhanendran
     
 - title: Education
@@ -9,31 +9,22 @@
   contents:
     - title: PG Dip Periodical Journalism
       institution: City, University of London
-      year: -
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+      year: 2003
+
     - title: MEng Computer Science
       institution: University of Bristol
-      year: -
-      description:
-        - Description 1.
-        - Description 2.
+      year: 2002
 
 - title: Experience
   type: time_table
   contents:
     - title: Product consultant and coach
-      year: 2024 - 
+      year: 2024 - present
 
     - title: Product community lead and coach
       Employer: Accurx
       year: 2021 - 2024
 
     - title: Lead product manager
-      company: Cancer Research UK
+      Employer: Cancer Research UK
       year: 2018-2021
