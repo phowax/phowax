@@ -16,6 +16,8 @@ I have 12 years' experience running product teams, speaking to users, and buildi
 
 I spent two and a half years as the in-house product coach and product community lead at fast-moving health tech start-up Accurx, the communication platform used by nearly every GP surgery in England. I came to Accurx after three years as lead product manager at the UK’s largest charity Cancer Research UK, and four years as product manager for Top Gear and BBC Good Food at BBC Worldwide (now BBC Studios), and two years working in the product team for the international version of BBC iPlayer. Before that, I was a journalist, writer and editor for 10 years.
 
+**[Click here to book a free, no obligation Discovery Session with me](https://tidycal.com/dhanendran/45-intro)**
+
 **Career coaching**
 Are you looking for a promotion or trying to find that next role, or simply not sure what path you want your career to take? I’ll work with you to open up your horizons or identify your path
 
